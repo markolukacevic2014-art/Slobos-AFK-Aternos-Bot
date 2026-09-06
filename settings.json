@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "BloodySMP.aternos.me",
+    "port": 25546,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
